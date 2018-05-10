@@ -18,7 +18,7 @@ DOCKERCLOUD_NAMESPACE=aiatelier docker push aiatelier/ai_atelier:tf-1.8.0-gcloud
 Run:
 
 ```
-docker run -p 0.0.0.0:6006:6006 -p 8888:8888 -it ai_atelier:latest
+docker run -p 0.0.0.0:6006:6006 -p 8888:8888 -it aiatelier/aiatelier:tf-1.8.0-gcloud-cpu
 ```
 
 Start Tensorboard:
