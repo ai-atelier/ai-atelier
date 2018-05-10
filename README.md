@@ -6,13 +6,13 @@ AI Atelier notebooks, lessons, and tutorials
 Build the container:
 
 ```
-docker build -t ai_atelier:tf-1.8.0-gcloud-cpu .
+docker build -t aiatelier:tf-1.8.0-gcloud-cpu .
 ```
 
 Tag and push to Docker Hub:
 ```
-DOCKERCLOUD_NAMESPACE=aiatelier docker tag ai_atelier:tf-1.8.0-gcloud-cpu aiatelier/ai_atelier:tf-1.8.0-gcloud-cpu
-DOCKERCLOUD_NAMESPACE=aiatelier docker push aiatelier/ai_atelier:tf-1.8.0-gcloud-cpu
+DOCKERCLOUD_NAMESPACE=aiatelier docker tag aiatelier:tf-1.8.0-gcloud-cpu aiatelier/aiatelier:tf-1.8.0-gcloud-cpu
+DOCKERCLOUD_NAMESPACE=aiatelier docker push aiatelier/aiatelier:tf-1.8.0-gcloud-cpu
 ```
 
 Run:
