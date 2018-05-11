@@ -1,7 +1,7 @@
 # ai-atelier
 AI Atelier notebooks, lessons, and tutorials
 
-### Docker
+### Docker 
 
 Build the container:
 
