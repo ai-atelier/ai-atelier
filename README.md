@@ -22,6 +22,10 @@ https://colab.research.google.com/drive/1pvELXxNeqiw4pROK5werrnUHl5s3fHS4
 
 https://colab.research.google.com/drive/1s7Z1g5fcYOhlQiVUPPWFe6PooeMaQHaj
 
+### Shapes
+
+https://colab.research.google.com/drive/1uC6-WaOwP7DcgiFX1PUcl0u2hr_MPElh
+
 ## Docker installation
 
 Run:
