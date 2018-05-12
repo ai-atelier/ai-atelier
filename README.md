@@ -18,6 +18,10 @@ https://colab.research.google.com/drive/1kdcaObMwZ_Gb7UvRzjlV634sI9ILznLq
 
 https://colab.research.google.com/drive/1pvELXxNeqiw4pROK5werrnUHl5s3fHS4
 
+### Deeper networks
+
+https://colab.research.google.com/drive/1s7Z1g5fcYOhlQiVUPPWFe6PooeMaQHaj
+
 ## Docker installation
 
 Run:
