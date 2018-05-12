@@ -1,6 +1,9 @@
 # ai-atelier
 AI Atelier notebooks, lessons, and tutorials
 
+### Tensors and training
+https://colab.research.google.com/drive/1giICtOP1QN7INJzNiAKg73vcRDJydTWr
+
 ### Docker 
 
 Build the container:
