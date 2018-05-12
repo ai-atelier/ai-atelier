@@ -8,6 +8,10 @@ https://colab.research.google.com/drive/1giICtOP1QN7INJzNiAKg73vcRDJydTWr
 
 https://colab.research.google.com/drive/1fH0qKc8XSplWqHYtrFSc5X-QICGngjYD
 
+### Dense layers & Optimizers
+
+https://colab.research.google.com/drive/1kdcaObMwZ_Gb7UvRzjlV634sI9ILznLq
+
 ### Docker 
 
 Build the container:
