@@ -4,6 +4,10 @@ AI Atelier notebooks, lessons, and tutorials
 ### Tensors and training
 https://colab.research.google.com/drive/1giICtOP1QN7INJzNiAKg73vcRDJydTWr
 
+### Training as optimization
+
+https://colab.research.google.com/drive/1fH0qKc8XSplWqHYtrFSc5X-QICGngjYD
+
 ### Docker 
 
 Build the container:
