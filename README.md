@@ -9,6 +9,8 @@ AI Atelier notebooks, lessons, and tutorials
 
 [Training and optimization](https://colab.research.google.com/drive/1fH0qKc8XSplWqHYtrFSc5X-QICGngjYD)
 
+[Layers and optimizers](https://colab.research.google.com/drive/1JJ5ySzzPsAXSa0NZcMawiQtCQRXtjnaw)
+
 ### Section 2
 
 [Datasets API and the Quickdraw Dataset](https://colab.research.google.com/drive/1cOneywoRDY7ezPQ7FsN8QROLc-iVkXT-)
