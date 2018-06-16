@@ -37,11 +37,6 @@ Run:
 docker run -p 0.0.0.0:6006:6006 -p 8888:8888 -it aiatelier/aiatelier:tf-1.8.0-gcloud-cpu
 ```
 
-Authenticate with google-cloud-sdk:
-```
-gcloud auth application-default login
-```
-
 Start Tensorboard:
 ```
 tensorboard --logdir=.  # replace with the path to your tf summaries
