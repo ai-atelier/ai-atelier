@@ -13,6 +13,8 @@ AI Atelier notebooks, lessons, and tutorials
 
 [Classification](https://colab.research.google.com/drive/1pvELXxNeqiw4pROK5werrnUHl5s3fHS4)
 
+[Deeper Models](https://colab.research.google.com/drive/1ghkjgO-Sf6jx3Y3BarnvHPAuGO1yIpkb)
+
 ### Section 2
 
 [Datasets API and the Quickdraw Dataset](https://colab.research.google.com/drive/1cOneywoRDY7ezPQ7FsN8QROLc-iVkXT-)
