@@ -19,6 +19,8 @@ AI Atelier notebooks, lessons, and tutorials
 
 ### Section 2
 
+[Datasets API in Depth](https://drive.google.com/open?id=1cOneywoRDY7ezPQ7FsN8QROLc-iVkXT-)
+
 [Datasets, Tensorboard, and Checkpoints](https://colab.research.google.com/drive/1IZbY4PE_qpaMBqfXLBRSguSa4F3E7gW5)
 
 [Convolution and Pooling](https://colab.research.google.com/drive/17nXAIytqSUCw0bn1Sdj2nF0TBMFRMwPo)
