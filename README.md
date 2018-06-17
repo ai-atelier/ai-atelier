@@ -19,25 +19,24 @@ AI Atelier notebooks, lessons, and tutorials
 
 ### Section 2
 
-[Datasets API and the Quickdraw Dataset](https://colab.research.google.com/drive/1cOneywoRDY7ezPQ7FsN8QROLc-iVkXT-)
-
-[Tensorboard and Checkpoints](https://colab.research.google.com/drive/1htd7yqRcfWAcRs6GuSqfDuhL1Brk_qXS)
+[Datasets, Tensorboard, and Checkpoints](https://colab.research.google.com/drive/1IZbY4PE_qpaMBqfXLBRSguSa4F3E7gW5)
 
 [Convolution and Pooling](https://colab.research.google.com/drive/17nXAIytqSUCw0bn1Sdj2nF0TBMFRMwPo)
 
 [Convolutional Networks](https://colab.research.google.com/drive/1G-s3zdFsOCTC2Xap0zHPM8YtVOOtZ68f)
 
-[Diving deeper into CNNs](https://colab.research.google.com/drive/1u_fZ2xVpcpu6azXZjeWs8oaxHdF9L6Z6#scrollTo=KgOu27PJXsu3)
+[Regularization and Data Augmentation](https://drive.google.com/open?id=1u_fZ2xVpcpu6azXZjeWs8oaxHdF9L6Z6)
 
 
 ## Docker installation
 
 Run:
 ```
-docker run -p 0.0.0.0:6006:6006 -p 8888:8888 -it aiatelier/aiatelier:tf-1.8.0-gcloud-cpu
+mkdir ~/summaries
+docker run -p 0.0.0.0:6006:6006 -p 8888:8888 -v ~/summaries:/root/summaries -it aiatelier/aiatelier:tf-1.8.0-gcloud-cpu
 ```
 
 Start Tensorboard:
 ```
-tensorboard --logdir=.  # replace with the path to your tf summaries
+tensorboard --logdir=.
 ```
