@@ -40,5 +40,5 @@ docker run -p 0.0.0.0:6006:6006 -p 8888:8888 -v ~/summaries:/root/summaries -it 
 
 Start Tensorboard:
 ```
-tensorboard --logdir=.
+tensorboard --logdir=summaries
 ```
